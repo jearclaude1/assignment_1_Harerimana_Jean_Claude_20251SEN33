@@ -386,7 +386,7 @@ ORDER BY customer_name, order_date;
 ## 5. Challenges Encountered
 **creation of table column**
 
-in mysql there is no Number data type found 
+- ** in mysql there is no Number data type found **
 
 so used int datatype instead 
 
